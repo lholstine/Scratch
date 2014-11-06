@@ -21,3 +21,4 @@ Please put your name (username): [Link to your Project]
 ### Make a Greeting Card -- Completion Log
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32292826/
+2) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32941872/
