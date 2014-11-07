@@ -1,0 +1,52 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+There is such a learning curve because it is like learning to read and write a new language.
+
+2) What is learning to program ultimately about?
+Learning to program is ultimately about learning to approach things with a more methodical and logical way of thinking.
+
+3) How does Scratch "lower the bar" to programming?
+It is a really basic form of programming using scripts and the click-and-drag feature to introduce new people into programming.
+
+4) What is a statement in a programming language?
+It is a command or an instruction given to the computer.
+
+5) What is a Boolean expression?
+In programming, a Boolean expression is an expression that can be stated as true or false.
+
+6) What is a conditional statement?
+It is a statement that must be true in order for something to happen.
+
+7) What is a loop used for in a programming language?
+In programming, a loop can induce multiple executions of a statement.
+
+8) What is the difference between a local variable and a global variable?
+A local variable can be used for only one sprite, while global variables can be used for all sprites.
+
+
+9) What is a Boolean variable?
+A variable that only takes on a value of true.
+
+10) Which type of blocks in Scratch can be considered threads?
+Scripts
+
+11) Which type of blocks in Scratch can be considered event handlers?
+Blocks that are labeled with "when".
+
+12) How many sprites are implemented in Oscartime?
+Nine
+
+13) How many threads are used to display the Oscartime game instructions?
+Three
+
+14) How many threads are used by Oscartime's Oscar sprite?
+Three
+
+15) What programming constructs does Scratch NOT support?
+Scratch does not support methods, parameters, return values, inheritance, and polymorphism.
